@@ -14,7 +14,8 @@ h1 {
 .container{
     background: rgba(255, 113, 67, 0);
     max-width: 1070px;
-    margin: 50px; grid-auto-flow: ;
+    margin: 50px auto; 
+    grid-auto-flow: ;
 }
 /* ПРИСОВЕНИЕ FLEX  ДЛЯ ДИМАЧИЕСКИХ ДИВ
    ЗАГОЛОВОК, ФЕТЕР И КОНТЕЙНЕРЫ В ТЕЛЕ*/
